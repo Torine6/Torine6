@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Torine6
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on machine learning and Artificial Intelligence 
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me ...vicimbuhila2000@gmail.com 
 
 <!---
