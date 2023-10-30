@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Torine6
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Data Science projects.
+- 👋 Hi, I’m Victorine Imbuhila.
+- 👀 I’m interested in Data Science, machine learning and data visualization.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on predictive analysis and statistical modeling.
 - 📫 How to reach me imbuhilavictorine@gmail.com 
 
 <!---
