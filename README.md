@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victorine</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on [image classification](https://github.com/Torine6/Coffee-Image-Classification.git)
-
-- 🌱 I’m currently learning **deep learning, AWS**
-
-- 🤝 I’m looking for help with [multiclass classification](https://github.com/Torine6/Obesity-Risk-Prediction.git)
-
 - 📝 I regularly write articles on [https://dev.to/torine6](https://dev.to/torine6)
-
-- 💬 Ask me about **python, SQL**
 
 - 📫 How to reach me **imbuhilavictorine@gmail.com**
 
